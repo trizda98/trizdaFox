@@ -5,8 +5,4 @@ public class Hello {
 		System.out.println("Maybe I'm not so hopeless");
 		System.out.println("Definitely I'm not so bad");
 	}
-
-	void Samy() {
-		System.out.println("Yep It's way better, than 2 hours ago");
-	}
 }
